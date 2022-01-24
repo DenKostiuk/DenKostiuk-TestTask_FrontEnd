@@ -1,0 +1,128 @@
+/* PlayFair Displayback */
+@font-face {
+    font-family: 'playfair_displayblack';
+    src: url('../fonts/Playfair_Display/playfairdisplay-black-webfont.woff2') format('woff2'),
+         url('../fonts/Playfair_Display/playfairdisplay-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'playfair_displayblack_italic';
+    src: url('../fonts/Playfair_Display/playfairdisplay-blackitalic-webfont.woff2') format('woff2'),
+         url('../fonts/Playfair_Display/playfairdisplay-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'playfair_displaybold';
+    src: url('../fonts/Playfair_Display/playfairdisplay-bold-webfont.woff2') format('woff2'),
+         url('../fonts/Playfair_Display/playfairdisplay-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'playfair_displaybold_italic';
+    src: url('../fonts/Playfair_Display/playfairdisplay-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/Playfair_Display/playfairdisplay-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'playfair_displayitalic';
+    src: url('../fonts/Playfair_Display/playfairdisplay-italic-webfont.woff2') format('woff2'),
+         url('../fonts/Playfair_Display/playfairdisplay-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'playfair_displayregular';
+    src: url('../fonts/Playfair_Display/playfairdisplay-regular-webfont.woff2') format('woff2'),
+         url('../fonts/Playfair_Display/playfairdisplay-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+/* Ubuntu */
+@font-face {
+    font-family: 'ubuntubold';
+    src: url('../fonts/Ubuntu/ubuntu-bold-webfont.woff2') format('woff2'),
+         url('../fonts/Ubuntu/ubuntu-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ubuntubold_italic';
+    src: url('../fonts/Ubuntu/ubuntu-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/Ubuntu/ubuntu-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ubuntuitalic';
+    src: url('../fonts/Ubuntu/ubuntu-italic-webfont.woff2') format('woff2'),
+         url('../fonts/Ubuntu/ubuntu-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ubuntulight';
+    src: url('../fonts/Ubuntu/ubuntu-light-webfont.woff2') format('woff2'),
+         url('../fonts/Ubuntu/ubuntu-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ubuntulight_italic';
+    src: url('../fonts/Ubuntu/ubuntu-lightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/Ubuntu/ubuntu-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ubuntumedium';
+    src: url('../fonts/Ubuntu/ubuntu-medium-webfont.woff2') format('woff2'),
+         url('../fonts/Ubuntu/ubuntu-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ubuntumedium_italic';
+    src: url('../fonts/Ubuntu/ubuntu-mediumitalic-webfont.woff2') format('woff2'),
+         url('../fonts/Ubuntu/ubuntu-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ubunturegular';
+    src: url('../fonts/Ubuntu/ubuntu-regular-webfont.woff2') format('woff2'),
+         url('../fonts/Ubuntu/ubuntu-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
